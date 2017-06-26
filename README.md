@@ -5,7 +5,7 @@ MyCsvPHP is a single class to perform some manipulation in CSV files.
 
 ### MyCsvPHP::tableArrayToCsv()
 
-Create a CSV file from a 2 dimensional array.
+Create a CSV file from 2-dimensional array.
 
 #### Examples
 ```

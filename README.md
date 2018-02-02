@@ -7,6 +7,9 @@ MyCsvPHP is a single class to perform some manipulation in CSV files.
 
 Create a CSV file from 2-dimensional array.
 
+#### Optional
+You can disable the tableArrayToCsv() method in a configuration file "MyCsvPHP.conf". Add one line: ```enabled=false```
+
 #### Examples
 ```
 $tableArray = array(
